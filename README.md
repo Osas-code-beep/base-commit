@@ -1,6 +1,6 @@
 # base-commit commit
 osas-1 base2 bass
-kh kjh base3
+kh kjh base3 base2
 jh jgf base4
 hg jhg base5
 hg sdg base6
